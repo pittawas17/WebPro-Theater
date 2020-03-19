@@ -35,3 +35,8 @@
 - CSS
 - Bootstrap
 - Vue.js
+
+### Run
+
+Open -> new.html
+Recommended browser -> Google Chrome
